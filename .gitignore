@@ -1,3 +1,38 @@
+# Large Media Files
 *.mp4
 *.webm
 *.ogv
+*.avi
+*.mov
+*.zip
+*.tar.gz
+*.rar
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor & IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Environment & Log Files
+.env
+.env.local
+.env.*.local
+*.log
+
+# Temporary Files
+.tmp/
+*.tmp
+*.bak
